@@ -1,1 +1,1 @@
-print "hello sb!"
+print "hello"
